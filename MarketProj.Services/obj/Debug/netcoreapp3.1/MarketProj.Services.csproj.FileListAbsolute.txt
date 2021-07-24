@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Services.deps.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Services.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Services.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.DAL.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Models.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.DAL.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Models.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Services\obj\Debug\netcoreapp3.1\MarketProj.Services.pdb

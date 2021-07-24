@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.DAL.deps.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.DAL.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.Models.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.DAL.runtimeconfig.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.DAL.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.DAL.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.Models.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.csproj.CopyComplete
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.DAL\obj\Debug\netcoreapp3.1\MarketProj.DAL.pdb

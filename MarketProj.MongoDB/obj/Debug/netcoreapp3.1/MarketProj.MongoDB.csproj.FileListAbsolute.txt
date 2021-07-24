@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\bin\Debug\netcoreapp3.1\MarketProj.MongoDB.deps.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\bin\Debug\netcoreapp3.1\MarketProj.MongoDB.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\obj\Debug\netcoreapp3.1\MarketProj.MongoDB.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\obj\Debug\netcoreapp3.1\MarketProj.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\obj\Debug\netcoreapp3.1\MarketProj.MongoDB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\bin\Debug\netcoreapp3.1\MarketProj.MongoDB.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\obj\Debug\netcoreapp3.1\MarketProj.MongoDB.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.MongoDB\obj\Debug\netcoreapp3.1\MarketProj.MongoDB.pdb

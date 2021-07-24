@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.deps.json
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\bin\Debug\netcoreapp3.1\MarketProj.Infrastructure.pdb
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\obj\Debug\netcoreapp3.1\MarketProj.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\obj\Debug\netcoreapp3.1\MarketProj.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\obj\Debug\netcoreapp3.1\MarketProj.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\obj\Debug\netcoreapp3.1\MarketProj.Infrastructure.dll
+C:\Users\Admin\source\repos\MarketProj\MarketProj.Infrastructure\obj\Debug\netcoreapp3.1\MarketProj.Infrastructure.pdb
